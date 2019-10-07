@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("headerboss.jpg");
+  background-size: 100%;
+  overflow: hidden;
+  width: 1349px;
+  height: 667px;  
+}
+
+img {
+  display: block;
+  margin-top: 16.5%;
+  margin-right: 40%;
+  margin-bottom: 20px;
+  margin-left: 41%;
+  width: 360px;
+  height: 200px;
+}
+
+.icons {
+  overflow: hidden;
+  position: center;
+  opacity: 1.0;
+  margin-left: 28%;
+  width: 50%;
+}
+
+.icons a {
+  display: block;
+  text-decoration: none;
+  float: left;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  opacity: 0.6;
+  padding: 14px 16px(1.4);
+  width: 16.66%;
+}
+
+h1{
+  color: white
+}
